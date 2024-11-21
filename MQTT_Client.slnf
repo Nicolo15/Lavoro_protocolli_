@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "Iot\\iot-protocols\\client\\NetCoreClient\\NetCoreClient.sln",
+    "projects": [
+      "NetCoreClient.csproj"
+    ]
+  }
+}
